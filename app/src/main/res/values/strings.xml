@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SantanderDevWeek</string>
+    <string name="text_saldo_disponivel">Saldo disponivel</string>
+    <string name="txt_saldo_limite" />
+    <string name="txt_ver_extrato">Ver Extrato</string>
+    <string name="txt_pagar">Pagar</string>
+    <string name="txt_transferir">Transferir</string>
+    <string name="txt_recarga">Recarga</string>
+    <string name="txt_recarregar">Recarregar</string>
+    <string name="txt_cart_o_final">Cartão Final</string>
+    <string name="txt_Santander">Santander</string>
+</resources>
